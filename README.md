@@ -12,6 +12,6 @@ A React-based, straightforward SPA Portfolio template for designers and develope
 5. Make required changes in ```src/app.js``` to suit your needs.
 
 Deploy-  
-Repo-
+Repo-https://github.com/robbi19/reactportfolio
 
 
