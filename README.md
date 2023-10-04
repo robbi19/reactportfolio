@@ -11,7 +11,7 @@ A React-based, straightforward SPA Portfolio template for designers and develope
 4. Run ```yarn start``` or ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
 5. Make required changes in ```src/app.js``` to suit your needs.
 
-Deploy-  
+Deploy- 
 Repo-https://github.com/robbi19/reactportfolio
 
 
