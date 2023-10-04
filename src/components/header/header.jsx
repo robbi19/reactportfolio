@@ -1,9 +1,9 @@
 /* eslint-disable jsx-a11y/heading-has-content */
 import React from 'react'
 import './header.css'
-import CTA from './CTA'
+import CTA from './cta'
 import ME from '../../assets/robbin profile.png'
-import HeaderSocials from './HeaderSocials'
+import HeaderSocials from './headersocials'
 
 const Header = () => {
     return (
