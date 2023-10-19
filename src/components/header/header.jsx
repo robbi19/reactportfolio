@@ -15,6 +15,11 @@ const Header = () => {
             <CTA />
             <HeaderSocials />
 
+            <div className="about">
+                <h2 id='about'>About Me</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laborum, illum. Dignissimos, perspiciatis. Consequuntur, ullam perspiciatis libero quod nostrum, iure eius possimus similique, in nemo ipsam.</p>
+            </div>
+
             <div className="me">
                 <img src={ME} alt="profile-picture" />
             </div>
